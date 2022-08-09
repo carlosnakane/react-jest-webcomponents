@@ -14,6 +14,8 @@ Porém testes unitários ainda são problemáticos devido à falta de suporte do
 - @happy-dom sequer renderiza os webcomponents;
 - @jest-runner/electron quebra ao inicializar;
 
+Para rodar os testes utilizando os environments listados rode os scripts localizados no package.json
+
 # Próximos passos
 - Experimentar o Chrome headless com o Puppeteer;
 - Experimentar o Karma com o Chrome headless. Nesse caso estaremos removendo o Jest;
